@@ -14,7 +14,7 @@ import Adapter from 'enzyme-adapter-react-16'
 configure({ adapter: new Adapter() })
 
 describe('RestaurantInput', () => {
-  
+
 });
 
 describe('Restaurants Component', () => {
@@ -22,13 +22,13 @@ describe('Restaurants Component', () => {
 });
 
 describe('Restaurant Component', () => {
-  
+
 });
 
 describe('RestaurantInput Component with Redux', () => {
-  
+
 });
 
 describe('Restaurant Component with Redux', () => {
-  
+
 });
