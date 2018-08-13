@@ -18,10 +18,10 @@ import Adapter from 'enzyme-adapter-react-16'
 configure({ adapter: new Adapter() })
 
 describe('ReviewInput Component', () => {
-  
+
 });
 
 // move on to testing the reviews component
 describe('Reviews Component', () => {
-  
+
 });
